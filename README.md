@@ -30,6 +30,6 @@ list_of_nodes = my_dict['response']['items']
 
 ##### Here is an example of how the resulted graph looks like:
 
-![](Снимок экрана 2022-11-21 в 16.46.23.png)
+![](presentation.png)
 
 The color of the node represents university, the size of the node depends on the number of mutual friends.
